@@ -1,0 +1,1 @@
+Desenvolvimento de uma prova de conceito de um sistema multiagente para análise de crédito utilizando LangGraph, simulando fluxos reais de validação, compliance e tomada de decisão financeira.# credit-ai-agent
